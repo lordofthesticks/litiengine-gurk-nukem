@@ -13,12 +13,13 @@ repositories {
 }
 
 dependencies {
-  compile project(':litiengine')
+  implementation 'de.gurkenlabs:litiengine:0.4.17'
+
 }
 
 sourceSets {
   main.java.srcDir "src"
   main.resources.srcDirs = ["sprites", "audio", "maps", "misc"]
 
-  // main.resources.includes = ["game.litidata"]
+  main.resources.includes = ["game.litidata"]
 }

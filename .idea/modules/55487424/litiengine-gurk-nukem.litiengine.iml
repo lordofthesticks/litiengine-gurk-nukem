@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":litiengine" external.linked.project.path="$MODULE_DIR$/../../../../litiengine" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="litiengine-gurk-nukem" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../litiengine">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../litiengine/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../litiengine/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

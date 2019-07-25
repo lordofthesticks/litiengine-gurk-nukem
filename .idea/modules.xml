@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/litiengine-gurk-nukem.iml" filepath="$PROJECT_DIR$/litiengine-gurk-nukem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/55487424/litiengine-gurk-nukem.litiengine.iml" filepath="$PROJECT_DIR$/.idea/modules/55487424/litiengine-gurk-nukem.litiengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litiengine-gurk-nukem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/litiengine-gurk-nukem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litiengine-gurk-nukem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/litiengine-gurk-nukem.test.iml" />
+    </modules>
+  </component>
+</project>
